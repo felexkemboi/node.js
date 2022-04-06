@@ -41,3 +41,11 @@ console.log(result);
 ## Running the Application
 
 To run the REST API, in the root folder run `node .` or `node index.js`
+
+
+
+
+
+
+
+
